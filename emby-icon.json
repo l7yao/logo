@@ -1,0 +1,18 @@
+{
+  "name": "Emby",
+  "description": "随机图标更新",
+  "icons": [
+    {
+      "name": "zhezhi",
+      "url": "https:\/\/raw.githubusercontent.com\/l7yao\/logo\/main\/zhezhi.GIF"
+    },
+    {
+      "name": "chinamobilemcloud",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/03CNSoft\/chinamobilemcloud.png"
+    },
+    {
+      "name": "chinamobilemcloud(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/03CNSoft\/chinamobilemcloud(1).png"
+    },
+  ]
+}
